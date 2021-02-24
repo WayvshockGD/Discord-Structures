@@ -19,7 +19,8 @@
     "structures",
     "modules",
     "commands",
-    "event"
+    "event",
+    "client"
   ],
   "author": "Wayvshock",
   "license": "Apache-2.0",
